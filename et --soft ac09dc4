@@ -1,0 +1,47 @@
+[33mcommit 8649762d094dbebba87e0194d6a5fe5d469edfe9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: jananiiiii-7 <jananisreed@gmail.com>
+Commit: sd4692-shraa <sd4692@srmist.edu.in>
+
+    UC7:DequeBasedOptimizedPalindromeChecker
+
+[33mcommit 234aee239c0b61ce38852fe53b0bfc4387bdf4fd[m
+Author: sd4692-shraa <sd4692@srmist.edu.in>
+Commit: sd4692-shraa <sd4692@srmist.edu.in>
+
+    UC6:QueueandStackBasedPalindromeCheck
+
+[33mcommit e0d5aea09ac6586dd3917dfacea616ab7303d73b[m
+Author: sd4692-shraa <sd4692@srmist.edu.in>
+Commit: sd4692-shraa <sd4692@srmist.edu.in>
+
+    UC5:StackBasedPalindromeChecker
+
+[33mcommit 0f7d80c5346d5e8f2de02cdfa0d502511faf03b2[m
+Author: sd4692-shraa <sd4692@srmist.edu.in>
+Commit: sd4692-shraa <sd4692@srmist.edu.in>
+
+    UC4:CharacterArrayBasedPalindromeCheck
+
+[33mcommit 2455f618e022ae0eaf5a14bcb62237dc1178a31d[m
+Author: sd4692-shraa <sd4692@srmist.edu.in>
+Commit: sd4692-shraa <sd4692@srmist.edu.in>
+
+    UC3:PalindromeCheckUsingReverseString
+
+[33mcommit c342799b02a0a4eef9a3de04778300b42a44991f[m
+Author: sd4692-shraa <sd4692@srmist.edu.in>
+Commit: sd4692-shraa <sd4692@srmist.edu.in>
+
+    UC2:Hardcoded palindrome
+
+[33mcommit b9cf7d6ba53290e371b9b9a41dc9aeb8c41d06c5[m
+Author: sd4692-shraa <sd4692@srmist.edu.in>
+Commit: sd4692-shraa <sd4692@srmist.edu.in>
+
+    UC1:Add welcome message module
+
+[33mcommit 5e0111849e577469d4accf9ffd918f85cfd54100[m
+Author: sd4692-shraa <sd4692@srmist.edu.in>
+Commit: sd4692-shraa <sd4692@srmist.edu.in>
+
+    Base application setup
